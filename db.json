@@ -1,12 +1,12 @@
 [
     {
-        no : 1,
-        id : 'oni1',
-        name : 'Oni'
+        'no' : 1,
+        'id' : 'oni1',
+        'name' : 'Oni'
     },
     {
-        no : 2,
-        id : 'oni2',
-        name : 'Noni'
+        'no' : 2,
+        'id' : 'oni2',
+        'name' : 'Noni'
     }
 ]
