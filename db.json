@@ -1,12 +1,14 @@
-[
-    {
-        "no" : 1,
-        "id" : "oni1",
-        "name" : "Oni"
-    },
-    {
-        "no" : 2,
-        "id" : "oni2",
-        "name" : "Noni"
-    }
-]
+{
+    "users" : [
+        {
+            "no" : 1,
+            "id" : "oni1",
+            "name" : "Oni"
+        },
+        {
+            "no" : 2,
+            "id" : "oni2",
+            "name" : "Noni"
+        }
+    ]
+}
